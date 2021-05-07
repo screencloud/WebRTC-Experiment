@@ -41,7 +41,7 @@
     "_id": "detectrtc@",
     "_from": "detectrtc@",
     "devDependencies": {
-        "grunt": "0.4.5",
+        "grunt": "1.3.0",
         "grunt-cli": "0.1.13",
         "load-grunt-tasks": "3.4.0",
         "grunt-contrib-concat": "0.5.1",
